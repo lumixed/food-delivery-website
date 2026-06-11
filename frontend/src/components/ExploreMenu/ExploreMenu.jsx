@@ -4,7 +4,7 @@ import { menu_list } from '../../assets/frontend_assets/assets'
 
 function ExploreMenu({category, setCategory}) {
   return (
-    <div className="ExploreMenu" id="ExploreMenu">
+    <div className="explore-menu" id="explore-menu">
         <h1>Explore our menu</h1>
         <p className="explore-menu-text">Choose from a divferse menu featuring a delectablearray of dishes.</p>
         <div className="explore-menu-list">
